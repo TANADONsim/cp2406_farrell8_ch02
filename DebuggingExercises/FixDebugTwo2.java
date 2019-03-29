@@ -1,4 +1,4 @@
-public class DebugTwo2
+public class FixDebugTwo2
 //  This application performs arithmetic with two integers
 {
    public static void main(String args[])

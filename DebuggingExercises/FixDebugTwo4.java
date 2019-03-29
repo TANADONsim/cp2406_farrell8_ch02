@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class DebugTwo4
+public class FixDebugTwo4
 {
    public static void main(String[] args)
    {
